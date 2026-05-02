@@ -19,7 +19,7 @@ Once the software is flashed on the chip, the "lock" will be locked and ready fo
 Press 4 of the buttons 1 through 4 to attempt to enter a password. The default password is "1324".
 Once entered correctly, all 4 LEDs on the board will light up, indicating that that the password was entered correctly.
 At this point the "lock" is "unlocked" and the keypad is ready for a new password to be entered.
-Press 4 buttons in whichever order you like to create the new password. Buttons can be repeated, so the password could be "111".
+Press 4 buttons in whichever order you like to create the new password. Buttons can be repeated, so the password could be "1111".
 After the fourth button is pressed, the LEDs will turn off, indicating that the new password has been set and the lock is now locked.
 You can now continue by entering the new password to unlock the lock again.
 
