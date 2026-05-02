@@ -35,5 +35,5 @@ You can now continue by entering the new password to unlock the lock again.
 - Lock input keypad while  LEDs are blinking
 - Flash LED corresponding to the button that was just entered
 - Explore improvements to be made to the asynchronous behaviour
-- Debounce button pressed for better input behaviour
-- Configuration of initial password, LED timings etc. in defines, or even config files
+- Debounce button presses for better input behaviour
+- Configuration of initial password, LED timings etc. in #defines, or even config files
